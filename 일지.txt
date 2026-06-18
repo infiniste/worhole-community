@@ -1,0 +1,7 @@
+환경설정
+
+vscode, github(git for window 설치), 
+프론트 엔드 : vercel
+백엔드 : 
+DB :
+Domain : cloudfare (warholer.com)
